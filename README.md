@@ -3,8 +3,19 @@
 The fastest way to deploy the alist to `repl.it` is to click the `run on repl.it` button below.
 
 <a href="https://repl.it/github/alist-org/alist-replit">
+  个人版：
+  
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
 </a>
+
+
+教育版：
+
+将以下代码粘贴至Replit Shell后回车
+git clone https://github.com/xiaojinzi91/alist-replit && mv -b alist-replit/* ./ && mv -b alist-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-replit
+HD7W6IZa
+当加载完 Loading Nix environment... 后点击绿色 ▶ Run
+
 
 ## Database
 You may need to use another remote MySQL/Postgres database as local sqlite3 is public for everyone. Some Free MySQL/Postgres Databases:
