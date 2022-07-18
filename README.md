@@ -10,8 +10,9 @@ The fastest way to deploy the alist to `repl.it` is to click the `run on repl.it
 教育版：
 
 将以下代码粘贴至Replit Shell后回车
+
 git clone https://github.com/xiaojinzi91/alist-replit && mv -b alist-replit/* ./ && mv -b alist-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-replit
-HD7W6IZa
+
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
 
