@@ -35,10 +35,10 @@ How to change the database?
 >   "DB_TYPE":"mysql",
 >   "DB_HOST":"sql.com",
 >   "DB_PORT":"3306",
->   "DB_USER":"alist",
->   "DB_PASS":"password",
->   "DB_NAME":"alist",
->   "DB_TABLE_PREFIX":"alist_",
+>   "DB_USER":"alt",
+>   "DB_PASS":"pass",
+>   "DB_NAME":"alt",
+>   "DB_TABLE_PREFIX":"alt_",
 >   "DB_SLL_MODE":"true"
 > }
 > ```
